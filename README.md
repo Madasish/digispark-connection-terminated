@@ -4,6 +4,7 @@ A small thing I wrote for the Digispark using DigisparkKeyboard that opens a not
 ## Setup
 To set up the Digispark itself I suggest you follow these instructions:
 http://digistump.com/wiki/digispark/tutorials/connecting
+
 After that you can just clone the repository or just [download it as a zip file](https://github.com/Madasish/digispark-connection-terminated.git), open the .ino file and then upload the script! 
 
 ## Sources
