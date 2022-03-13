@@ -13,6 +13,3 @@ Sources for the things I used when making this:
  - [Connection terminated copypasta](https://www.reddit.com/r/copypasta/comments/kcd9qp/connection_terminated/)
  - [Fix for memory overload when typing out large amounts of text](http://digistump.com/board/index.php?topic=2554.0)
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Madasish&color=ff88b5">
-</p>
