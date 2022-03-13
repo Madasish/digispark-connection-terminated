@@ -65,16 +65,20 @@ void setup() {
   digiReset();
 }
 void loop() {
+  
   // Hides all apps
   DigiKeyboard.sendKeyStroke(KEY_D, MOD_GUI_LEFT);
   DigiKeyboard.delay(500);
+  
   // Opens run window
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
   DigiKeyboard.delay(500);
+  
   // Opens numpad using the numpad window
   DigiKeyboard.print("notepad");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(500);
+  
   // Starts typing the text
   printText( GetPsz (line1) );
   enter();
@@ -126,12 +130,14 @@ void loop() {
   printText( GetPsz (line24) );
   enter();
   DigiKeyboard.delay(3000);
+  
 //  Closes the notepad window without saving
   DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);
   DigiKeyboard.sendKeyStroke(79); //right arrow key
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  
 //  Optional rickroll (select and use ctrl+/ to uncomment)
-
+//
 //  DigiKeyboard.delay(2000);
 //  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
 //  DigiKeyboard.delay(500);
