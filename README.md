@@ -3,8 +3,6 @@ A small thing I wrote for the Digispark using DigisparkKeyboard that opens a not
 
 ## [Demo](https://www.youtube.com/watch?v=9GXNB9vJ1J8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9GXNB9vJ1J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Setup
 To set up the Digispark itself I suggest you follow these instructions:
 http://digistump.com/wiki/digispark/tutorials/connecting
