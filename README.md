@@ -1,5 +1,5 @@
 ## Digispark Connection Terminated
-A small thing I wrote for the Digispark using DigisparkKeyboard that opens a notepad window and writes out the whole [connection terminated copypasta](https://www.reddit.com/r/copypasta/comments/kcd9qp/connection_terminated/)
+A small thing I wrote for the Digispark using DigisparkKeyboard that opens a notepad window and writes out the whole [FNaF connection terminated copypasta](https://www.reddit.com/r/copypasta/comments/kcd9qp/connection_terminated/)
 
 ## [Demo](https://www.youtube.com/watch?v=9GXNB9vJ1J8)
 
