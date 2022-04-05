@@ -2,6 +2,7 @@
 A small thing I wrote for the Digispark using DigisparkKeyboard that opens a notepad window and writes out the whole [FNaF connection terminated copypasta](https://www.reddit.com/r/copypasta/comments/kcd9qp/connection_terminated/)
 
 ## [Demo](https://www.youtube.com/watch?v=9GXNB9vJ1J8)
+To see the demo click [here](https://www.youtube.com/watch?v=9GXNB9vJ1J8)!
 
 ## Setup
 To set up the Digispark itself I suggest you follow these instructions:
